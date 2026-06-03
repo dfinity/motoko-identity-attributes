@@ -2,6 +2,10 @@
 
 ## Next
 
+## 0.4.1
+
+- Documentation only: rewrote the README (clearer usage, a concrete `@icp-sdk/auth` v7 frontend example, and an attribute-key reference) and simplified the mixin doc comment. No code or API changes.
+
 ## 0.4.0
 
 - **Breaking**: Renamed env var `origin` → `frontend_origins`. The new value is comma-separated, so an app served from multiple domains lists each one (e.g. `https://app.icp0.io,https://app.example.com`).

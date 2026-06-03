@@ -8,7 +8,7 @@ Pairs with `@icp-sdk/auth` v7.
 ```toml
 # mops.toml
 [dependencies]
-identity-attributes = "0.4.0"
+identity-attributes = "0.4.1"
 core                = "2.5.0"
 ```
 
