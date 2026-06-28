@@ -3,6 +3,9 @@
 Verify Internet Identity attribute bundles in relying-party canisters.
 Pairs with `@icp-sdk/auth` v7.
 
+[![mops](https://oknww-riaaa-aaaam-qaf6a-cai.raw.ic0.app/badge/mops/identity-attributes)](https://mops.one/identity-attributes)
+[![documentation](https://oknww-riaaa-aaaam-qaf6a-cai.raw.ic0.app/badge/documentation/identity-attributes)](https://mops.one/identity-attributes/docs)
+
 ## Install
 
 ```toml
